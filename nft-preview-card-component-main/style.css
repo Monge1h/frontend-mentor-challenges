@@ -28,6 +28,8 @@ hr {
 	padding: 22px;
 	border-radius: 12px;
 	background-color: hsl(216, 50%, 16%);
+	box-shadow: 10px 1px 10px 1px rgba(0, 0, 0, 0.207);
+
 }
 
 .card__image{
